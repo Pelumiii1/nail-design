@@ -62,7 +62,6 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 - **Heroicons** for SVG hand icon
 - **TypeScript** for type safety
 - **localStorage** (optional) to save selections
-- **Framer Motion** (optional bonus) for smooth animations
 
 ---
 
